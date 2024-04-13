@@ -1,1 +1,4 @@
 Yes it is Chapter 3.
+git init // Initialize git
+git add //Staging area
+git commit //Commit
